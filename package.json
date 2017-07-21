@@ -1,0 +1,29 @@
+{
+  "name": "csgo-stats",
+  "version": "0.0.18",
+  "description": "A module to communicate with steam's API about CSGO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOnlyArtz/csgo-stats.git"
+  },
+  "keywords": [
+    "csgo",
+    "counter",
+    "counterstrike",
+    "API",
+    "stats"
+  ],
+  "author": "TheOnlyArtz/Amit Katz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheOnlyArtz/csgo-stats/issues"
+  },
+  "homepage": "https://github.com/TheOnlyArtz/csgo-stats#readme",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}
