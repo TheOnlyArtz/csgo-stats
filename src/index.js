@@ -11,7 +11,7 @@ class csgoStats {
   }
 
   static get checkID () {
-    return checkID
+    return checkID;
   }
 
 
